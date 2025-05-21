@@ -1,9 +1,9 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MrTanuk
 
-I am 20 years old. I'm more into backend development. I'm in the middle of my degree: systems engineering., applying my knowledge in programming. In my free days I dedicate my time to study software development and update myself on the latest technologies.  
+I am 20 years old. I'm more into backend development. I'm in the middle of my degree: systems engineering, applying my knowledge in programming. In my free days I dedicate my time to study software development and update myself on the latest technologies.  
 
-* 🌍  I'm from venezuela 
+* 🌍  I'm from Venezuela 
 * ✉️  Ask me anything you would like to
 * 🧠  I'm a native Spanish speaker and have an intermediate level of English.
 * 🤝  I'm glad to cooperate as a team to build apps.
