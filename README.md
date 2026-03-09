@@ -25,7 +25,7 @@ I am 21 years old. I'm more into backend development. I'm in the middle of my de
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Git](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)
-[![Laravel](https://skillicons.dev/icons?i=wordpress)](https://laravel.com/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ## Contact 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-mario-ramirez-a05563288)
